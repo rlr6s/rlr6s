@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ronald Luis Rodriguez 👋
 
-<!--
-**rlr6s/rlr6s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at Universidad APEC (UNAPEC), based in the Dominican Republic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in software development, problem-solving, and building practical applications.
+
+### Technologies & Tools
+
+- **Languages:** Python, JavaScript, C++, SQL
+- **Web Development:** HTML, CSS, Node.js
+- **Databases:** PostgreSQL, Supabase
+- **Tools:** Git, GitHub, Visual Studio Code
+
+### Featured Projects
+
+*More projects coming soon.*
+
+### Areas of Interest
+
+- Software Engineering
+- Backend Development
+- Web Development
+- Algorithms and Problem Solving
+
+### Contact
+
+- **Email:** Your professional email
+- **LinkedIn:** Coming soon
